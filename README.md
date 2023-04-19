@@ -1,4 +1,4 @@
-# Flutter Web App Portipolio
+# Flutter Web App Portifolio
 Google Developer Student Club, Central University Flutter Workshop with Flutter GDE, Etornam and GDG Accra
 
 
