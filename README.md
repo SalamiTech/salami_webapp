@@ -1,8 +1,8 @@
-# Flutter Web App Portifolio
+# Flutter Web App Portfolio
 Google Developer Student Club, Central University Flutter Workshop with Flutter GDE, Etornam and GDG Accra
 
 
-For help getting started with the portifolio build, use this link: 
+For help getting started with the portfolio build, use this link: 
 [Code Lab](https://romanejaquez.github.io/flutter-codelab-ioextended2022/#0)
 
 
